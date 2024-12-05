@@ -17,3 +17,7 @@ Per refusi, aggiunte e modifiche a quanto presente, inviare segnalazione a info[
 # Contributors
 
 Si ringrazia Mauro Cicolella per la prefazione, e per il supporto fornito durante la stesura di questo manuale.
+
+
+# my book
+https://leggi.amazon.it/?asin=B0C66FVH1F
