@@ -20,4 +20,4 @@ Si ringrazia Mauro Cicolella per la prefazione, e per il supporto fornito durant
 
 
 # My copy of the book
-https://leggi.amazon.it/?asin=B0C66FVH1F
+[lettura libro](https://leggi.amazon.it/?asin=B0C66FVH1F)
